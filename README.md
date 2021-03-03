@@ -1,1 +1,1 @@
-https://romanpidlisnychyi.github.io/timer/build
+https://romanpidlisnychyi.github.io/timer/build/
